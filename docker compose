@@ -1,0 +1,9 @@
+
+---
+
+# ☁️ Azure VM Deployment
+
+1. Created Ubuntu 22.04 VM on Azure
+2. Installed Docker and Docker Compose
+3. Pulled images from Docker Hub
+4. Ran:
